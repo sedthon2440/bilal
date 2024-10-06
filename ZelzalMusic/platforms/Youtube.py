@@ -10,7 +10,7 @@ from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
 from ZelzalMusic.utils.database import is_on_off
-from ZelzalMusic.formatters import time_to_seconds
+from ZelzalMusic.utils.formatters import time_to_seconds
 
 
 
