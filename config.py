@@ -23,7 +23,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Anubarlo:Anubarlo@cluster0.
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 2000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002059513294"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002166680207"))
 
 # Get this value from @FallenxBot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", 7291869416))
@@ -43,7 +43,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-CH_US = getenv("CH_US", "z_zzz8")
+CH_US = getenv("CH_US", "bdb0b")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/O_P_G")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/QU_QUU")
 
@@ -66,8 +66,8 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 # Checkout https://www.gbmb.org/mb-to-bytes for converting mb to bytes
 
 
-# Get your pyrogram v2 session from @T66bot on Telegram
-STRING1 = getenv("STRING_SESSION", "BAGB5kgAnDP1yncq69ESO_5WebuylQNUJV3oEosm_43J48gfleW0auqJ7nXLkI8tTZQiHBQN9w-cq0BS7j5qxBR7Pwv9mlTmnKzMfNqN7CLfU0f1pKl8a8NB0-KsRbt-hIXGpoAnb7H6lY3xIAxYQv_afC4PJh1n2WK2-tfcWrQmv4tN1w-98co7GVgBD71sAnkUEt-3f0XCC-zOyyhtdy1N0JlSxpyDn7ruDi01yAOgcjLv-z_AyZMpqZkmrO4nvthelpMXnpn0uxqMgzSIbpx35Rc__YwGyvpZ0Z0-ueJvyYVGAefmRcf6crHLox731eifrbxI6UWyqQ_3k_Tzf8BrxAlVowAAAAEvAALVAA")
+# Get your pyrogram v2 session from @T66bot on 
+STRING1 = getenv("STRING_SESSION", "BACTk80AjkwxmmIatryh4Jf2lk9s45KsotMxnPqHAmPpBX0-EYeERQE24cRpMhQDhvRIYvXYqfD6loD90USGDQ6C9jZq9J1ryJePwbMZwlU2BNIjCb8zQoNZKAHLfLSPI7XsDHNT2QEVJGHVuJjFyU76kiZenyKPPnW4p6Zn8WFvloEHuWZBER7pD-2CmYFcq-xWOSMIha3IE5zMr9GuTrlqS9OlZLOVNIBPcxLSTDPVjfXQ1Q17vJCDkzajrfPcyZVVEMJcDqgcyOeE61QPql7TxxDfa2w-2x-BvgZ8E0XzosNaoAyOxe_qsHj3JuX6ZPt4wilrxaqD6BS4WQX2u727W_HhyAAAAAFaDZmXAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
